@@ -20,4 +20,4 @@ jobs:
           pip install requests
 
       - name: Run script
-        run: python affiliates/affiliate.py
+        run: python affiliate.py
