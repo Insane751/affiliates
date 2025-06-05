@@ -44,6 +44,38 @@ campaigns = [
 
 🔹 #México#Biónica #SaludArticular #AlivioDelDolor #MuéveteLibremente #AlivioDelDolorDeEspalda #CuraciónNatural #ArticulacionesSaludables
     '''
+},
+{
+    'name': 'Flexacil Ultra',
+    'place_ids': [
+'108446732520456','111977915487788', '116201475057063', '111838148832983'
+     ],
+    'images': [
+'https://drive.google.com/uc?export=view&id=198WA5yrBhIQfUJmScQV1qAWiOqQniD1i', 'https://drive.google.com/uc?export=view&id=1UaIiiQyZSVxPrlCPzLj1uns7dYMntWFy', 'https://drive.google.com/uc?export=view&id=1VTNMECWlBjMlGL9ek-9nfy84MBlkZiSD', 'https://drive.google.com/uc?export=view&id=1kjEWuVZFrgO8_vSdOupXyBvr8_pat4gh', 'https://drive.google.com/uc?export=view&id=1mMYE8tsCOjOilHrQNbtlUtv7AOzEA5Fz'
+],
+    'user_access_token': 'EAASxCueM5bYBO4ZBUozZAYd5OcOdX3ubEkOh8RZCrQyos5KC193UALTEiTMTewpmBUkSSM6y1jMeQvxC3IZBynNJYgk9AYTIYJv3aTDabZAOZBo0MZBZCUMNHER6pZCvcu7nZBwimQMjWdKJZAaZBibylwKBDJV2eMPzYiyOuhcZAkOrHIhItG619QTemw4EmZB0szMUDR',    'page_id': '566302159902808',
+    'message': '''
+¡Dígale adiós al dolor articular en solo 10 días!
+🚨 ¡SOLO 1500 paquetes producidos por año! 🚨
+🛒 OFERTA POR TIEMPO LIMITADO: ¡-50% DE DESCUENTO!
+💰 Ahora solo 149 PEN (Precio regular: 298 PEN)
+👉👉 https://tinyurl.com/mbx5fwk8
+
+✅ Cápsulas Flexacil: ¡comprobado para combatir el dolor articular, la artritis y la osteoartritis!
+🌿 Fórmula 100 % natural: con condroitina y glucosamina para restaurar la función articular sin cirugía.
+🔥 Alivia el dolor y la hinchazón: repara las articulaciones, los tejidos y los ligamentos.
+💪 Eficaz para la osteocondrosis y la artritis
+👉👉 https://tinyurl.com/mbx5fwk8
+
+📌 Modo de uso:
+1️⃣ Tome 1 cápsula con agua.
+2️⃣ Úselo 3 veces al día para obtener mejores resultados.
+🔥 ¡Reclame su descuento AHORA! 🔥
+👉👉 https://tinyurl.com/mbx5fwk8
+
+#Perú
+#AlivioDelDolorArticular #Flexacil #VidaSinDolor #ArticulacionesSaludables
+    '''
 }
 
 
