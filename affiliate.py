@@ -85,8 +85,7 @@ campaigns = [
 
    {
         'name': 'INSULUX',
-        'page_id': '684674071395453
-',
+        'page_id': '684674071395453',
         'user_access_token': 'EAASLVpBBZBd0BOyznHs5tHEnqZCNm1R6l934BlqA7HLctNAEPZB70iaZCGjs6x1OTYGjqUYsQf2AXAROGB8biicrZC9kc57BsomsgTgYAVAb1caWOCvLquPo07OlewAMOMYcER8K44kqquLLVHWXDw17t3zUdR7bZCFuSPLRgpmPCaIQjRSdQVEphucSjJ',
         'place_ids': [
             '107674002595670',
