@@ -77,7 +77,53 @@ campaigns = [
 
 #Perú
 #AlivioDelDolorArticular #Flexacil #VidaSinDolor #ArticulacionesSaludables'''
-    }
+    },
+
+
+
+
+
+   {
+        'name': 'INSULUX',
+        'page_id': '684674071395453
+',
+        'user_access_token': 'EAASLVpBBZBd0BOyznHs5tHEnqZCNm1R6l934BlqA7HLctNAEPZB70iaZCGjs6x1OTYGjqUYsQf2AXAROGB8biicrZC9kc57BsomsgTgYAVAb1caWOCvLquPo07OlewAMOMYcER8K44kqquLLVHWXDw17t3zUdR7bZCFuSPLRgpmPCaIQjRSdQVEphucSjJ',
+        'place_ids': [
+            '107674002595670',
+            '164636974246744',
+            '104223529609899',
+            '106031246101831'
+            # Add more place IDs as needed
+        ],
+        'images': [
+'https://drive.google.com/uc?export=view&id=190hkNPiVxGWClEq9lWczfEeX7Fm7p3ue', 'https://drive.google.com/uc?export=view&id=192k_n6IpVXCelbuPmgZ8Q1MKvt3sRauA', 'https://drive.google.com/uc?export=view&id=195v7Zhss1IfvjCSdPWPBeQIxbOskIx33', 'https://drive.google.com/uc?export=view&id=19GPpnNzc-MzM1R1GrGJZvHwkm9kchRTn', 'https://drive.google.com/uc?export=view&id=19KakmrwOoQh4NYnGQkS43OVDbVLxCpvj'        ],
+        'message': '''
+        🔥 Ucapkan Selamat Tinggal kepada Gula Darah Tinggi dengan INSULUX!  🔥
+Bergelut dengan keletihan, mengidam, atau lonjakan gula?  Jangan biarkan diabetes mengawal hidup anda.  Dengan hanya 2 kapsul semulajadi sehari, Insulux membantu anda mengawal semula — cepat, selamat dan sangat berkesan!  💊💪 
+
+👉👉- https://tinyurl.com/mr3pt6bh 
+
+✅ Mengapa Insulux Berfungsi:
+• Meningkatkan pengeluaran insulin secara semulajadi
+• Meremajakan pankreas & hati anda
+• Menstabilkan gula dalam darah & mengurangkan rasa mengidam
+• Melawan keradangan & menguatkan imuniti
+• Dikuasakan oleh Gymnema, Fenugreek, Soursop & banyak lagi 🌿
+🎯 Diuji secara klinikal – 89% melihat hasil dalam masa 40 hari sahaja!
+👉👉- https://tinyurl.com/mr3pt6bh 
+
+🛒 CARA ORDER:
+🚨 HARI INI SAHAJA – DISKAUN 50%!
+💰 Harga Asal: 338 RM
+🔥 Kini Sahaja: 169 RM
+📲 Letakkan nama & nombor telefon anda di bawah – pasukan kami akan menghubungi anda terus untuk mengesahkan pesanan anda! 
+
+👉👉- https://tinyurl.com/mr3pt6bh 
+
+#Malaysia #Insulux #DiabetesSupport #BloodSugarControl #RendahkanGulaDarahSecaraSemulajadi #NaturalHealth #SugarBalance #PancreasHealth #InsulinSupport #MalaysiaHealth #DiabetesSolution #HealthyHid #NaturalRemedy #ImmuneBoost
+'''
+    }   
+    
 ]
 
 def get_page_access_token(page_id, user_token):
