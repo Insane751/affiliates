@@ -82,8 +82,7 @@ campaigns = [
 ]
 
 def get_page_access_token(page_id, user_token):
-    version = 'v20.0'
-    url = f'https://graph.facebook.com/{version}/{page_id}?fields=access_token&access_token={user_token}'
+    url = f'https://graph.facebook.com/v20.0/{page_id}?fields=access_token&access_token={user_token}'
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -92,34 +91,58 @@ def get_page_access_token(page_id, user_token):
         print(f"❌ Error retrieving access token for page {page_id}:", e)
         return None
 
-def post_with_photo(page_id, token, image_url, place_id, message):
-    url = f'https://graph.facebook.com/v20.0/{page_id}/photos'
-    payload = {
+def post_with_location(page_id, token, image_url, place_id, message):
+    # Step 1: Upload the photo as unpublished
+    photo_url = f'https://graph.facebook.com/v20.0/{page_id}/photos'
+    photo_payload = {
+        'access_token': token,
+        'url': image_url,
+        'published': 'false'
+    }
+    photo_response = requests.post(photo_url, data=photo_payload)
+    if photo_response.status_code != 200:
+        print(f"❌ Failed to upload photo: {photo_response.text}")
+        return
+
+    photo_id = photo_response.json().get('id')
+    if not photo_id:
+        print("❌ No photo ID returned.")
+        return
+
+    # Step 2: Post to feed with the location
+    feed_url = f'https://graph.facebook.com/v20.0/{page_id}/feed'
+    feed_payload = {
         'access_token': token,
         'message': message,
         'place': place_id,
-        'url': image_url  # Use 'url' to post an image from an internet URL
+        'attached_media': [{'media_fbid': photo_id}]
     }
-    response = requests.post(url, data=payload)
-    if response.status_code == 200:
-        print(f"✅ Posted successfully: {image_url} at {place_id}")
+    feed_response = requests.post(feed_url, json=feed_payload)
+    if feed_response.status_code == 200:
+        print(f"✅ Post successful with image at place {place_id}")
     else:
-        print(f"❌ Failed to post: {response.status_code} {response.text}")
-
+        print(f"❌ Failed to post to feed: {feed_response.status_code} {feed_response.text}")
 
 # Run through each campaign
 for campaign in campaigns:
     print(f"\n📢 Starting campaign: {campaign['name']}")
     token = get_page_access_token(campaign['page_id'], campaign['user_access_token'])
 
-    if token:
-        while campaign['place_ids'] and campaign['images']:
-            place = campaign['place_ids'].pop(random.randint(0, len(campaign['place_ids']) - 1))
-            image = campaign['images'].pop(random.randint(0, len(campaign['images']) - 1))
-            print(f"Posting image: {image} | place: {place}")
-            post_with_photo(campaign['page_id'], token, image, place, campaign['message'])
-            time.sleep(2)  # Optional rate-limiting
-    else:
+    if not token:
         print(f"❌ Skipping campaign {campaign['name']} due to token issue.")
+        continue
+
+    # Clone the lists to avoid mutation issues
+    place_ids = campaign['place_ids'][:]
+    images = campaign['default_images'][:]
+
+place_ids = campaign['place_ids'].copy()  # So we can pop safely without modifying original
+
+while place_ids:
+    place = place_ids.pop(random.randint(0, len(place_ids) - 1))
+    image = random.choice(campaign['images'])  # Reuse images
+    print(f"📸 Posting image: {image} | 📍 Place: {place}")
+    post_with_location(campaign['page_id'], token, image, place, campaign['message'])
+    time.sleep(2)
 
 print("✅ All campaigns finished.")
