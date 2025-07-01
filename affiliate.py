@@ -121,7 +121,59 @@ Bergelut dengan keletihan, mengidam, atau lonjakan gula?  Jangan biarkan diabet
 
 #Malaysia #Insulux #DiabetesSupport #BloodSugarControl #RendahkanGulaDarahSecaraSemulajadi #NaturalHealth #SugarBalance #PancreasHealth #InsulinSupport #MalaysiaHealth #DiabetesSolution #HealthyHid #NaturalRemedy #ImmuneBoost
 '''
-    }   
+    },
+  {
+        'name': 'CAARDIONIX',
+        'page_id': '615079858357284',
+        'user_access_token': 'EAAQQfb0utnEBO079zgFKfYnXKZB2zXJii67seoZC0dK21JJlZAPJo82BR1VDQr25LZCkV0CoGuipP5ByOZC3HQhtNka7PtZBECUZBrFZBZBo9CEvYyyZBR8BwZB3gLNF2oAAjaLYAwYvERSt8IrE9nhGRh7vBYqQi6fDFO5sZCkrHDCLZAQ0WxGwe46booEEkw4xe',
+        'place_ids': [
+            '114897945188014',             
+            '109318109087339',
+            '111939165490631',
+            '109486839070556'
+            # Add more place IDs as needed
+        ],
+        'images': [
+ 'https://drive.google.com/uc?export=view&id=18a3lIOpdMwOvtMK4tqtyTPKD4jy83huV', 'https://drive.google.com/uc?export=view&id=18b6FsnXaQj8RJXvhDeE7w_9hxEw59XM0', 'https://drive.google.com/uc?export=view&id=1fvYmTiypDb0ikZLHA3ZNAi0Chh3aLeJP', 'https://drive.google.com/uc?export=view&id=1tZNxWjwVau2nvlNWjs5eQvofEvfwKlNe'],
+        'message': '''
+        ¿Cansado de que la HIPERTENSIÓN ARTERIAL y la ATEROSCLEROSIS te arruinen la vida?
+¡Dile HOLA a CARDIONIX, la solución PODEROSA de la naturaleza!
+Sin pastillas. Sin efectos secundarios. Solo RESULTADOS. 
+
+👉👉- https://sites.google.com/view/cardionixhb/home
+
+✔️ 100 % natural
+✔️ Recomendado por médicos
+✔️ Resultados rápidos: ¡presión arterial normal en 6 horas!
+✔️ ¡Seguro para todas las edades!
+¿Sientes alguno de estos síntomas?
+⚡️ Dolores de cabeza
+⚡️ Mareos
+⚡️ Problemas de visión
+⚡️ Entumecimiento en los dedos
+⚡️ Fatiga o cambios de humor
+⚡️ Picos de presión arterial 
+
+¡Es la HIPERTENSIÓN llamando a la puerta! ¡No la ignores!  Cardionix te ayuda a:
+🌿 Limpiar los vasos sanguíneos de colesterol
+❤️ Fortalecer tu corazón
+💪 Mejorar la circulación
+🔥 Acelera el metabolismo y quema grasa
+🧠 Calma los nervios y combate la ansiedad 
+
+👉👉- https://sites.google.com/view/cardionixhb/home 
+
+¡Todo con UN solo producto natural!
+Y lo mejor:
+¡EXISTENCIAS LIMITADAS! ¡SOLO QUEDAN 18 UNIDADES!
+Precio original: ❌1780 MXN
+SOLO HOY: ✅890 MXN – ¡50% DE DESCUENTO!
+¡No esperes más! ¡Tu corazón se lo merece!
+¡Pide ahora!                                                                            👉👉 -https://sites.google.com/view/cardionixhb/home 
+
+#México #Cardionix #CorazónSaludable #AdiósHipertensión #CuraciónNatural #SinColesterol #ControlDePresiónAumento #CuidadoCardiológico #ApoyoCardiológico #AprobadoPorDoctores #SiénteteJovenDeVuelve #OfertaLimitada #OfertasMéxico
+'''
+    }
     
 ]
 
