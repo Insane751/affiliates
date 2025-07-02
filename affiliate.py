@@ -173,7 +173,50 @@ SOLO HOY: ✅890 MXN – ¡50% DE DESCUENTO!
 
 #México #Cardionix #CorazónSaludable #AdiósHipertensión #CuraciónNatural #SinColesterol #ControlDePresiónAumento #CuidadoCardiológico #ApoyoCardiológico #AprobadoPorDoctores #SiénteteJovenDeVuelve #OfertaLimitada #OfertasMéxico
 '''
-    }
+    },
+      {
+        'name': 'Artrolux+ Cream',
+        'page_id': '595101733697726',
+        'user_access_token': 'EAAPDGinmhkcBOZBY6iDgAN9cJ5mzlsid6ETtrhBSLQTdcBiGuEBD33IgaiZBAxYMG98gSAdWhefeK09cRybx2gYJqrFULqNP3a896XZApJw564q608DSZCyMowTmeaTo7IRXtYWGgLKHTFTda8wMOpdVnuU9SkJHCTgIcJB3ZAi7agMUdw5xNLZA20MdSLr1mD',
+        'place_ids': [
+            '111175118906315',             
+            '110221372332205',
+            '116045151742857',
+            '108100019211318'
+            # Add more place IDs as needed
+        ], 
+        'images': [
+'https://drive.google.com/uc?export=view&id=1--K6f7TYSh9mGnG6PZ2H0Kr_wXHSMvRw', 'https://drive.google.com/uc?export=view&id=12ns9KHx_bQHxmfoPzTCZj132nTZ2qlTY', 'https://drive.google.com/uc?export=view&id=1aGvOTpTjLJH-zDmdmqufFsB-O7nqSLkx', 'https://drive.google.com/uc?export=view&id=1gyqrW7lLse2vxavxA50r1Q9xLk4IIjrP', 'https://drive.google.com/uc?export=view&id=1xgOe7mVa_9C1-1EU2quIqXxxVk_RiHrt', ],            # Add more image URLs as needed
+        'message': '''
+        🔥 Rücken- oder Gelenkschmerzen? Schnelle Linderung! 🔥
+🧴 ARTROLUX+ Creme – Nur 49 EUR! (vorher 98 EUR)
+⚡ 50 % RABATT – Nur noch wenige Packungen verfügbar!
+
+👉👉- https://sites.google.com/view/artroluxcreamhb/home
+
+💥 Sofortige Linderung von Gelenk- und Rückenschmerzen!
+🌿 100 % natürlich | 👨‍⚕️ Von Experten empfohlen | 🚫 Keine Nebenwirkungen
+✅ Reduziert Entzündungen und Schwellungen
+✅ Lindert Schmerzen und Muskelverspannungen
+✅ Regeneriert Knorpel
+✅ Wirkt ab der ersten Anwendung!
+
+ 👉👉- https://sites.google.com/view/artroluxcreamhb/home
+
+📦 So bestellen Sie:
+1️⃣ Bestellformular ausfüllen
+2️⃣ Versandart wählen
+3️⃣ Zahlung per Nachnahme – Keine Vorauszahlung!
+🚚 Lieferung in 6–7 Tagen
+🛡️ Zertifiziertes EU-Produkt – Originalverpackung mit Code!
+🎯 Schnell sein – Nur noch wenige Artikel verfügbar!
+👇 Klicken Sie auf „Jetzt bestellen“ und machen Sie den ersten Schritt in ein schmerzfreies Leben!
+
+👉👉- https://sites.google.com/view/artroluxcreamhb/home
+
+#Germany #Deutschland #ArtroluxPlus #Schmerzlinderung #Gelenkunterstützung #Lösung bei Rückenschmerzen #NatürlicheHeilung #Arthroselinderung #GesundeWirbelsäule #KeineSchmerzenMehr #WellnessPflege #Schnell Besser Fühlen
+'''
+    },
     
 ]
 
