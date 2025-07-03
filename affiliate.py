@@ -186,7 +186,8 @@ SOLO HOY: ✅890 MXN – ¡50% DE DESCUENTO!
             # Add more place IDs as needed
         ], 
         'images': [
-'https://drive.google.com/uc?export=view&id=1--K6f7TYSh9mGnG6PZ2H0Kr_wXHSMvRw', 'https://drive.google.com/uc?export=view&id=12ns9KHx_bQHxmfoPzTCZj132nTZ2qlTY', 'https://drive.google.com/uc?export=view&id=1aGvOTpTjLJH-zDmdmqufFsB-O7nqSLkx', 'https://drive.google.com/uc?export=view&id=1gyqrW7lLse2vxavxA50r1Q9xLk4IIjrP', 'https://drive.google.com/uc?export=view&id=1xgOe7mVa_9C1-1EU2quIqXxxVk_RiHrt', ],            # Add more image URLs as needed
+'https://drive.google.com/uc?export=view&id=12Va5qOxsXUx4UGaqpzAzt5OqS0-ERHJK', 'https://drive.google.com/uc?export=view&id=14VMknJsH54V_dRG9u4jf6hip4BjToDZB', 'https://drive.google.com/uc?export=view&id=1W6RuyEZ-Jzil0skQyGk5UtIyZRCg0ock', 'https://drive.google.com/uc?export=view&id=1a0mVbI6AvF9zv8i-hbcoJCSJphlXcP5O', 'https://drive.google.com/uc?export=view&id=1ciilO_uy5P_NXzXQ-uHaZww9NE0BU6MF', 'https://drive.google.com/uc?export=view&id=1rCGroYN4mMA7O0S7jGJgl115_Ma-P4Rg', 'https://drive.google.com/uc?export=view&id=1w_9YyA__8BjshPnNjdSe0EBcEq2MdoJw', 'https://drive.google.com/uc?export=view&id=1zJCNnzR36OaB36FgZWy7XEGof_ihkpyt'
+        ],            # Add more image URLs as needed
         'message': '''
         🔥 Rücken- oder Gelenkschmerzen? Schnelle Linderung! 🔥
 🧴 ARTROLUX+ Creme – Nur 49 EUR! (vorher 98 EUR)
