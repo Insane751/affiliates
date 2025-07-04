@@ -218,6 +218,56 @@ SOLO HOY: ✅890 MXN – ¡50% DE DESCUENTO!
 #Germany #Deutschland #ArtroluxPlus #Schmerzlinderung #Gelenkunterstützung #Lösung bei Rückenschmerzen #NatürlicheHeilung #Arthroselinderung #GesundeWirbelsäule #KeineSchmerzenMehr #WellnessPflege #Schnell Besser Fühlen
 '''
     },
+     {
+        'name': 'TESTOSTERON BOOST',
+        'page_id': '693694570497805',
+        'user_access_token': 'EAAPtPy0O7EcBO3jtbGLMXIGA7OJbzBykB5cZC9DA2y2HN64F6adzYC5cZApAOiGWyxlhZCDDweGR9rfOrulrJBIG23ATbSHI0jAYhMZCRooOKZBg8ASEuiOwoV5HVUBai6ggMasbx4npHHUDv9MVWloBMDkQSbfmTsJmntDY7FbUaOyZCpiECiLxqxCi3B',
+        'place_ids': [
+            '115353315143936',             
+            '115247758487174',
+            '108581069173026',
+            '113396132004585'
+            # Add more place IDs as needed
+        ], 
+        'images': [
+'https://i.imgur.com/3yJ6wfq.jpeg', 'https://i.imgur.com/zWeDQnz.jpeg','https://i.imgur.com/W8IYk9x.jpeg','https://i.imgur.com/6z0RMKZ.jpeg' ],            # Add more image URLs as needed
+        'message': '''
+        🔥 Ritrova la tua virilità con Testosteron Boost! 🔥
+💪 Problemi di salute maschile? Prostatite, eiaculazione precoce, impotenza? Non lasciare che peggiori! 
+
+👉👉- https://sites.google.com/view/testosteronboosthb/home 
+
+✅ SOLO PER OGGI: Da €78 ➡️ SOLO €39!
+🚚 Consegna rapida in tutta Europa
+💰 Paga SOLO alla ricezione dell'ordine!
+🔒 Qualità e risultati garantiti al 100%! 
+
+🌿 Estratti naturali di Serenoa repens, Mirtillo rosso, Radice di ortica e Zinco per:
+✔️ Aumentare i livelli di testosterone
+✔️ Migliorare l'erezione
+✔️ Aumentare la fertilità
+✔️ Rafforzare il sistema immunitario maschile
+✔️ Prevenire prostatite e tumori 
+
+👉👉- https://sites.google.com/view/testosteronboosthb/home 
+
+📦 Come ordinare?
+1️⃣ Compila il modulo d'ordine sul nostro sito web 🌐
+2️⃣ Conferma il tuo ordine con un nostro operatore 📞
+3️⃣ Ricevilo a casa e paga alla consegna! 💸 
+
+💊 Come si usa?
+Assumere 1 capsula 1-2 volte al giorno con acqua per 45 giorni.
+Ripetere il ciclo se necessario! 
+
+⏰ QUESTA OFFERTA SPECIALE SCADE PRESTO! Non lasciartela sfuggire! 
+
+👉👉- Ordina ora! Solo 39 €!
+👉-https://sites.google.com/view/testosteronboosthb/home 
+
+#TestosteroneBoost #SaluteMaschile #ProstataCura #PotenzaMaschile #IntegratoreNaturale #BenessereMaschile #OffertaSpeciale #Europa #UomoPiùForte
+'''
+    }
     
 ]
 
