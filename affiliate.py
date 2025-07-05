@@ -267,6 +267,48 @@ Ripetere il ciclo se necessario!
 
 #TestosteroneBoost #SaluteMaschile #ProstataCura #PotenzaMaschile #IntegratoreNaturale #BenessereMaschile #OffertaSpeciale #Europa #UomoPiùForte
 '''
+    },
+      {
+        'name': 'ATROLEX ACTIVE',
+        'page_id': '756142437571730',
+        'user_access_token': 'EAAR9y1wuU0MBPCIX8ZCkI5yZBbJW9LA2uAGpcu2NWJqPVpQqh5YsJZBl9ym4Kv02roEZA30KxZCMaPb9FZA6PZBGUOWYQDgdgbA52kqAYg1r9gnkdbl0FXmIwIOb04aJKhXjZBNdcXk6be9SLQYxLsTAXRlo6OwXR1EbXpLyKufErKudE5PQjPjKCiCBohZAT6AqT',
+        'place_ids': [
+            '113396132004585',             
+            '106071914131317',
+            '108581069173026',
+            '115353315143936'
+            # Add more place IDs as needed
+        ], 
+        'images': [
+'https://i.imgur.com/vXsUCyA.jpeg', 'https://i.imgur.com/lxEZ4En.jpeg','https://i.imgur.com/idnYIdn.jpeg','https://i.imgur.com/tLjGiD0.jpeg' ],            # Add more image URLs as needed
+        'message': '''
+        ✅ Di' addio al dolore articolare!
+💯 100% naturale - Oltre 5.000 confezioni vendute!
+🦵✨ Stanco di dolori a mani, gambe o articolazioni? Artrite o artrosi ti rallentano?
+
+👉👉- https://sites.google.com/view/artroflexactivehb/home
+
+ArtroFlex Active è la soluzione naturale ideale!
+💥 Ora con il -50% di sconto!
+💶 Solo 39 EUR invece di 78 EUR!
+🟢 Cosa rende ArtroFlex Active così speciale?
+✔️ Rigenera articolazioni e tessuti
+✔️ Elimina dolore e gonfiore
+✔️ Aiuta in caso di artrite, artrosi e osteocondrite
+✔️ Contiene condroitina e collagene per la massima efficacia!
+
+👉👉- https://sites.google.com/view/artroflexactivehb/home
+
+⏰ Affrettati! Pacchetti limitati rimasti - Lo sconto termina presto!
+ 👉 Come ordinare:
+1️⃣ Inserisci il tuo nome 📋
+2️⃣ Inserisci il tuo numero di telefono ☎️
+3️⃣ Clicca su "Ordina ora" e ti chiameremo noi: riservatezza garantita!
+
+👉👉- https://sites.google.com/view/artroflexactivehb/home
+
+#SaluteArticolari #SollievoArtrite #GuarigioneNaturale #VitaSenzaDolore #ArtroFlexActive
+'''
     }
     
 ]
